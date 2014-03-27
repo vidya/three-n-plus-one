@@ -4,9 +4,7 @@ This program is a solution to
 
     http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf
 
-1.6.1 The 3n+ 1 Problem
-
-PC/UVa IDs: 110101/100, Popularity: A, Success rate: low Level: 1
+    1.6.1 The 3n+ 1 Problem
 
 Consider the following algorithm to generate a sequence of numbers. Start with an
 integer n. If n is even, divide by 2. If n is odd, multiply by 3 and add 1. Repeat this
